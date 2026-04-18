@@ -10,6 +10,13 @@ This server wraps the [Open-Meteo API](https://open-meteo.com/) and exposes thre
 
 No API key is required.
 
+## Documentation
+
+- [Documentation index](docs/README.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Tool reference](docs/TOOL_REFERENCE.md)
+- [AI agent guide](AGENTS.md)
+
 ## Install
 
 ```bash
